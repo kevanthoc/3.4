@@ -37,6 +37,22 @@ Tema: **“LEY DE OHM - ENERGIA Y POTENCIA ”**
 
 **Marco Teórico:** 
 
+![image](https://user-images.githubusercontent.com/105686218/170482540-0c58b4b4-8043-46de-af7a-b1477d0af3a7.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482582-27432e1a-c609-4d90-8f72-fead5dd8c8ab.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482621-de32a54e-1602-4713-b4ff-720ba684a23b.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482659-bff2071a-8131-45d1-9466-ce65452caa9c.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482708-c8b1d399-b093-42b4-adf6-f43557677ecb.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482754-c1986535-0063-4f00-a036-ca96cd04ebd4.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482782-f21b8e41-f189-4f19-bf41-c273ece2471d.png)
+
+![image](https://user-images.githubusercontent.com/105686218/170482820-ca22f089-9479-4067-859d-0c117851135c.png)
+
 
 
 
