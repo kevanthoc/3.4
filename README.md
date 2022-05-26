@@ -10,20 +10,27 @@
 
 **Nombre:** Kevin Chalán
 
-**Nivel: **Segundo 
+**Nivel:** Segundo
 
-**Nrc:** 
+**Nrc:** 7309
 
 **Fecha de entrega: 26/05/2022**
 
 Tema: **“LEY DE OHM - ENERGIA Y POTENCIA ”** 
 ***
 
-Objetivo General
+**Objetivo General**
 
 “Entrar y familiarizarnos con los diferentes términos de circuitos y electricidad con las respectivas características de los diferentes componentes que la conforman” 
 
-Objetivos Específicos
+**Objetivos Específicos**
+
+1.Determinar todas las caracteristicas de le ley de Ohm 
+
+2.Establecer en que situaciones se usa la ley de Ohm
+
+3. Reconocer las componentes de la Energia y Potencia
+
 
 
 ***
@@ -100,6 +107,8 @@ R= V/I
 8200 Ohmios con 5 % Tolerancia 
 
 10 
+![image](https://user-images.githubusercontent.com/105686218/170413665-d9fc52cf-8538-4447-bb27-d72b2622f84b.png)
+
 
 ![image](https://user-images.githubusercontent.com/105686218/170304869-a79617b5-9d04-470d-afa1-a97f44c1f312.png)
 
@@ -313,10 +322,32 @@ Pentrada x Eficincia = Psalida
 5watts x 0.85= 4.25W
 
 
+38-40-42 CD ROM
+
+***
+
+**VIDEO**
+
+https://youtu.be/tEe_hmpkDE4 
+
+***
+
+**CONCLUSIONES**
+
+-Con todo lo establecido en el marco teorico y los ejercicios podemos conluir que cumplimos con nuestro objetivo general y los especificos y a su vez en cada resolucion de un determinado ejericicio se estudiaron las difernetes caracteristicas y sus componentes lo que a su vez ayudo aun mas con la relacion a los primeros dos capitulos del libro en cuanto a notacion cintifica y Prefijos metricos. 
+
+- Gracias a la determinada notacion cientifica y los prefijos se pueden usar los adtos de manera mucha mas simple e incluso es favorable a la hora de trabjara con medidas ya sean extremadamente grandes o pequeñas
 
 
+***
+**BIBLIOGRAFIA**
+
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007
 
 
+**RUBRICA**
+
+![image](https://user-images.githubusercontent.com/105686218/170417682-7df1fcc8-cec2-4118-b131-0e309e11c01e.png)
 
 
 
